@@ -1,0 +1,5 @@
+<!..<tt>=typewriter<//tt> #ff0000=red #ff<pre></pre>=preformatted
+100<sup>2</sup>=100 power 2 100<sub>2</sub>=100base2
+ <strike>=strikethrough</strike> <strong>=hi</strong> 
+<blockquot>=blajsfhiuk</blackquot> <em>=emphasis</em> 
+<font face=ariel, size=5, color="red"> blaahh </font> >

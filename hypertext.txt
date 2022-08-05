@@ -1,0 +1,3 @@
+
+pattern for hypertext
+url.. target..... name specify with ancher tag(<a>)
